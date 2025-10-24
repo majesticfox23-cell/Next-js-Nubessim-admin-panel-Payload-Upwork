@@ -1,0 +1,7 @@
+Token value - zr5nwl1rSVOz609P-NwTkunvul3VtxioDp9tI7cm
+
+Access Key ID - 9143cb275c1a3074314fa17bc2019408 
+
+Secret Access Key - d64400dfc08fcab65b9b014063cdeeb864a638d55f6b0360463c2478356a76ea
+
+Default - https://715fb044fd265e5ea95913fe00153551.r2.cloudflarestorage.com 
